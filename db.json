@@ -1,0 +1,26 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "username": "viqram",
+      "password": "viqram"
+    },
+    {
+      "id": 2,
+      "username": "wataf",
+      "password": "wataf"
+    }
+  ],
+  "place": [
+    { "id": "16055", "place_name":"Ayam Bakar 97", "location": "Jl. Tenggilis Mejoyo 12", "fnb_menu": "Ayam bakar utuh", "photo_url":"https://randomoutputs.com/assets/images/tools/foods/steak-on-a-stick.webp" },
+    { "id": "16796", "place_name":"Boss Pizza", "location": "Jl. Mejoyo 1", "fnb_menu": "Original mix BBQ", "photo_url": "https://randomoutputs.com/assets/images/tools/foods/chorizo-pizza.webp" },
+    { "id": "18747", "place_name":"Hot Dog Sumo", "location": "Jl. Mejoyo 2", "fnb_menu": "Hot dog jumbo", "photo_url": "https://randomoutputs.com/assets/images/tools/foods/hot-dog.webp" },
+    { "id": "10675", "place_name":"Molla Crepes", "location": "Jl. Kaliwaru 1", "fnb_menu": "Crepes cokelat", "photo_url": "https://randomoutputs.com/assets/images/tools/foods/crepes.webp" },
+    { "id": "17579", "place_name":"Pie Country", "location": "Jl. Rungkut Lor", "fnb_menu": "Banana cream pie", "photo_url": "https://randomoutputs.com/assets/images/tools/foods/banana-cream-pie.webp" },
+    { "id": "17563", "place_name":"Burger Rider", "location": "Jl. Rungkut Mejoyo Selatan 10", "fnb_menu": "Big cheese burger", "photo_url": "https://randomoutputs.com/assets/images/tools/foods/veggie-burger.webp" },
+    { "id": "19065", "place_name":"Cokelat Monster", "location": "Jl. Rungkut Mejoyo Selatan 12", "fnb_menu": "Strawberry cokelat fondue", "photo_url": "https://randomoutputs.com/assets/images/tools/foods/chocolate-fondue.webp" },
+    { "id": "14276", "place_name":"Coffee Pait", "location": "Jl. Rungkut Mejoyo Utara 5", "fnb_menu": "Kopi susu hot", "photo_url": "https://randomoutputs.com/assets/images/tools/foods/coffee.webp" },
+    { "id": "10978", "place_name":"Churos Nona", "location": "Jl. Jl. Rungkut Mejoyo Utara 7", "fnb_menu": "Churos original", "photo_url": "https://randomoutputs.com/assets/images/tools/foods/churros.webp" },
+    { "id": "14367", "place_name":"Warung Jaya Tiga", "location": "Jl. Jl. Rungkut Mejoyo Selatan 8", "fnb_menu": "Spaghetti carbonara", "photo_url": "https://randomoutputs.com/assets/images/tools/foods/carbonara.webp" }
+  ]
+}
